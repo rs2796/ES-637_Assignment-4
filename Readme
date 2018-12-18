@@ -1,0 +1,9 @@
+Important points
+1. There is only one matlab file.
+2. You have to input the number of clusters you want.
+3. Three images will be output after running the code.
+	1. Original input image.
+	2. Input resized image.
+	3. Clusters
+4. You can change the value of size variable manually. It is originally set to 50.
+For any queries feel free to contact.
